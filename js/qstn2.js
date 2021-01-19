@@ -31,7 +31,5 @@ function qstn2(){
                                 document.write(x+" is odd"+'<br/>');
                         }
                 }
-                
         }
-        
 }
